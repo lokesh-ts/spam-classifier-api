@@ -1,2 +1,5 @@
-streamlit
-requests
+fastapi
+uvicorn
+scikit-learn
+numpy
+pickle-mixin
